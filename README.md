@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alpyoruk
 - 👀 I’m interested in defense industry, space, science
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js, well known html, css, js, .net, .net api
 - 📫 How to reach me alpyoruksoftware@gmail.com
 
 <!---
